@@ -7,3 +7,4 @@ resource "aws_instance" "Qlik-QA" {
   tags = {
     Name = "Qlik-Replcate-Active"
   }
+  }
